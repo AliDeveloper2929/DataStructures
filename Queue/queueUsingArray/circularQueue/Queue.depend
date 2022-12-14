@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664290248 source:/home/muhammadali/Desktop/AbdulBariLessons/Queue/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1664358413 source:/home/muhammadali/Desktop/AbdulBariLessons/Queue/circularQueue/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

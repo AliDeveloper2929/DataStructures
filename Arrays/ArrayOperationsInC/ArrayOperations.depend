@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663155226 source:/home/muhammadali/Desktop/AbdulBariLessons/ArrayOperations/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1663155226 source:/home/muhammadali/Desktop/AbdulBariLessons/Arrays/ArrayOperationsInC/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

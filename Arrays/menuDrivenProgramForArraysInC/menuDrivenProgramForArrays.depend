@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663154572 source:/home/muhammadali/Desktop/AbdulBariLessons/menuDrivenProgramForArrays/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

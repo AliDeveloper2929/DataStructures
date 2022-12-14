@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663755208 source:/home/muhammadali/Desktop/AbdulBariLessons/LinkedLists/operationsOnLinkedList/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1663796278 source:/home/muhammadali/Desktop/AbdulBariLessons/LinkedLists/operationsOnLinkedListInC/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

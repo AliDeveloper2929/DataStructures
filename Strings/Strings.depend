@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663298445 source:/home/muhammadali/Desktop/AbdulBariLessons/Strings/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

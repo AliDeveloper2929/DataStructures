@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667207493 source:/home/muhammadali/Desktop/AbdulBariLessons/DataStructures/trees/Binary_Search_Tree/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

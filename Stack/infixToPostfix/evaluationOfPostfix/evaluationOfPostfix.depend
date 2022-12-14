@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664204173 source:/home/muhammadali/Desktop/AbdulBariLessons/Stack/infixToPostfix/evaluationOfPostfix/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

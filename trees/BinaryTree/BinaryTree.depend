@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1664896750 source:/home/muhammadali/Desktop/AbdulBariLessons/DataStructures/trees/BinaryTree/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+	"Stack.h"
+
+1664610172 /home/muhammadali/Desktop/AbdulBariLessons/DataStructures/trees/BinaryTree/Queue.h
+	<stdbool.h>
+
+1664884033 /home/muhammadali/Desktop/AbdulBariLessons/DataStructures/trees/BinaryTree/Stack.h
+	"Queue.h"
+	<stdbool.h>
+

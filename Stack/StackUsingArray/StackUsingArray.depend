@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663938526 source:/home/muhammadali/Desktop/AbdulBariLessons/Stack/StackUsingArray/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

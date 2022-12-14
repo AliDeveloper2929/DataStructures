@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663848631 source:/home/muhammadali/Desktop/AbdulBariLessons/LinkedLists/doubly_LinkedList/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

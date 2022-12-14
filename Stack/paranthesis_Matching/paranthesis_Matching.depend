@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664025077 source:/home/muhammadali/Desktop/AbdulBariLessons/Stack/paranthesis_Matching/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

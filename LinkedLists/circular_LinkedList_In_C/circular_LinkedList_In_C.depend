@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663802034 source:/home/muhammadali/Desktop/AbdulBariLessons/LinkedLists/circular_LinkedList_In_C/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
